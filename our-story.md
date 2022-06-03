@@ -1,0 +1,20 @@
+---
+id: 91
+title: 'Our Story'
+date: '2012-08-14T23:35:07+00:00'
+author: rchurro
+layout: page
+guid: 'http://shineychurro.wordpress.com/?page_id=91'
+---
+
+<div># <span style="font-family:'trebuchet ms', helvetica, sans-serif;color:#800000;">How it all Happened</span>
+
+</div><div><div>![Art and Shine at the former Jazz Bakery in Culver City October 4, 2008](http://wwcdn.weddingwire.com/static/wedding/1755001_1760000/1759088/thumbnails/400x400_1344286696811-IMG6418c.jpg "Art and Shine @ the former Jazz Bakery in Culver City October 4, 2008") <span style="font-family:'lucida sans unicode', 'lucida grande', sans-serif;">After graduating from high school, Arturo decided to make a fresh start and leave his home town of Torrance to move north to attend college at UC Berkeley. Meanwhile, Sherymer decides to leave Oxnard and move slightly south to the City of Angeles to attend UCLA. Graduating from college at the opposite ends of the state, Arturo moves to Los Angeles for work, and Sherymer moves back to LA to get away from work and go back to school. The two e</span><span style="font-family:'lucida sans unicode', 'lucida grande', sans-serif;">ventually meet in the Fall of 2008 just outside UCLA in Westwood Village. </span></div><div><span style="font-family:'lucida sans unicode', 'lucida grande', sans-serif;">Into her second year of grad school at LMU, Sherymer’s laptop dies beyond what she could repair–she suspects a fried motherboard, so she decides to return to her alma mater to see what she could find.</span>
+
+</div><div><span style="font-family:'lucida sans unicode', 'lucida grande', sans-serif;">Meanwhile a strapping young and handsome man by the name of Arturo had gotten bored day-trading millions of dollars –of someone else’s money–and left the perils of trading stocks to venture and find his true passion in computers and IT. </span>
+
+</div><div><span style="font-family:'lucida sans unicode', 'lucida grande', sans-serif;">![](http://wwcdn.weddingwire.com/static/wedding/1755001_1760000/1759088/thumbnails/220x220_1344323943808-Arturo2ndgr.jpg)Both in the infancy of their careers, Sherymer and Arturo’s paths soon cross. Dead laptop in tow, Sherymer is miffed that no competent person appeared available to help her, but ever so chivalrous Arturo had taken notice and soon and stepped up to the plate. After a brief explanation of her problems Arturo assured Sherymer that the laptop was in good hands and that saving her data would be no problem. The laptop–not so much. After several days of holding her computer hostage, having Sherymer return to check on her “backups” and charging her an exorbitant amount of money for 10gb worth of data that took one week back up, Arturo had done all he could for the little Vaio and began ringing Sherymer’s service order out. With a deep breath, a little sweat and minimal eye contact, Arturo held on tightly to Sherymer’s service order and began spouting nonsense. Then at the end of his short adulation, he and finally summed up the courage to ask Sherymer to “hangout sometime”. This took Sherymer by surprise.</span>
+
+<span style="font-family:'lucida sans unicode', 'lucida grande', sans-serif;">![](http://wwcdn.weddingwire.com/static/wedding/1755001_1760000/1759088/thumbnails/220x220_1344322799075-Sherymer2ndGrade.jpg)Despite being charged excessively for backed up data she could have easily done herself for pennies and a few minutes, Sherymer happily accepted Arturo’s proposition with much flattery–besides, he was handsome *and* <span style="font-family:'lucida sans unicode', 'lucida grande', sans-serif;">nerdy, it couldn’t get any better! Later she realized this was probably against his company policy, assumes that Arturo figured she was worth the risk–apparently he didn’t really think that far. After a few awkward dates later, Arturo’s trip to Belize, and Sherymer’s impending move from her Culver City/Marina del Rey apartment to the one in Palms, and a random comment of a stranger later, Sherymer and Arturo celebrated their first Christmas Party as happy awkward couple 🙂</span></span>
+
+</div></div>
