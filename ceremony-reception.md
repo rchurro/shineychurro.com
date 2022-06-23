@@ -1,6 +1,6 @@
 ---
 id: 99
-title: 'Ceremony &amp; Reception'
+title: 'Ceremony & Reception'
 date: '2012-08-14T23:45:58+00:00'
 author: rchurro
 layout: page
